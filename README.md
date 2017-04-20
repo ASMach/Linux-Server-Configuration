@@ -18,4 +18,15 @@ grader SSH art:
 |           .o+*OO|
 +----[SHA256]-----+
 
+grader account: grader
 grader password: pwd
+
+Installed modules:
+Flask
+mysql-server
+mysql-client
+libmysqlclient15-dev
+MYSQL-Python
+SQLAlchemy
+python-pip
+oauth2client
