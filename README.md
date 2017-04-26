@@ -30,3 +30,4 @@ MYSQL-Python
 SQLAlchemy
 python-pip
 oauth2client
+mod_wsgi
