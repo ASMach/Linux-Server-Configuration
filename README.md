@@ -1,6 +1,6 @@
 Public IP: 34.224.184.237
 
-Public URL: http://34.224.184.237:80/ 
+Public URL: http://34.224.184.237:80/ or http://ec2-34-224-184-237.compute-1.amazonaws.com
 
 grader SSH fingerprint: SHA256:vZ34F8KUUv7K/pUYe9vStXqlrXcw4e8+gxnelrDxvIU grader@ip-172-26-15-149
 
