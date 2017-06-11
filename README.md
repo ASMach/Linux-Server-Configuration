@@ -2,18 +2,18 @@ Public IP: 34.224.184.237
 
 Public URL: http://34.224.184.237:80/ or http://ec2-34-224-184-237.compute-1.amazonaws.com
 
-SHA256:7gGJHv6jX38YEZJVkYQqauobbuFJMP6/Pmx4wrJgn/o grader@172.26.15.149
+SHA256:0DRuXSpPsJKXcDTRWY57Caw3t6th0iB+G9fqR2VjgeQ alonzomachiraju@Alonzos-MBP
 The key's randomart image is:
 +---[RSA 2048]----+
-|         o.++o   |
-|        o o .    |
-|         o .     |
-|o    .... .      |
-|.o  o.o.S  .     |
-| .ooo. o  .      |
-|.++==   +  o     |
-|oo**.*.o o. .    |
-| =OEB*=.. ..     |
+|      ..Oo ++.   |
+|       B Oo*. .  |
+|      + O B E  . |
+|       = = o .=  |
+|      . S = ++ . |
+|     . . + =..   |
+|      . + =.o    |
+|       . * o..   |
+|        ..+o.    |
 +----[SHA256]-----+
 
 grader account: grader
